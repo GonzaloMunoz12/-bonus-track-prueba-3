@@ -3,8 +3,17 @@ Proyecto: Refugio de mascotas
 Etapa 1 - Estructura inicial
 - Crear proyecto base con Vite + React + TypeScript.
 - Preparar la estructura principal de la aplicación.
+no use ia para este etapa
+
 
 Etapa 2 - Diseño de la interfaz
 - Diseñar la landing page del refugio.
 - Crear la sección hero, botones de acción y bloques informativos.
- me fue util al hacer la estructura inicial del proyecto
+
+Me fue util al ahcer diseño de la pagina
+
+Etapa 3 - Filtros y búsqueda
+- Implementar la búsqueda de mascotas por nombre o características.
+- Agregar filtros por especie para mostrar solo los animales deseados.
+- Mejorar la experiencia del usuario al navegar entre las mascotas disponibles.
+Fue util para hacer los filtros y la busqueda segura
