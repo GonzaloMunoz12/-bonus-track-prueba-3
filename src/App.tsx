@@ -3,6 +3,8 @@ import MascotaCard from '../components/MascotaCard'
 import mascotas from '../components/mascotas'
 
 function App() {
+  const mascotasUrgentes = mascotas.filter((mascota) => mascota.adopcionUrgente).length
+
   return (
     <main className="app-shell">
       <section className="hero-card">
@@ -47,6 +49,10 @@ function App() {
         <div className="section-heading">
           <p className="eyebrow">Mascotas disponibles</p>
           <h2>Ellos están listos para encontrar un hogar.</h2>
+          <p className="urgent-counter">
+            <span className="urgent-badge">⚠</span>
+            {mascotasUrgentes} mascotas con etiqueta URGENTE
+          </p>
         </div>
 
         <div className="pets-grid">

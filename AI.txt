@@ -17,3 +17,11 @@ Etapa 3 - Filtros y búsqueda
 - Agregar filtros por especie para mostrar solo los animales deseados.
 - Mejorar la experiencia del usuario al navegar entre las mascotas disponibles.
 Fue util para hacer los filtros y la busqueda segura
+
+Etapa 4 - Contador de mascotas urgentes
+- Mostrar cuántas mascotas tienen la etiqueta URGENTE.
+- Añadir un aviso visual destacado en la sección de mascotas disponibles.
+- Mejorar la visibilidad de los casos más prioritarios para adopción.
+Se hizo para que el usuario vea rapidamente las mascotas urgentes.
+
+No me fue tan util ya que solo es para que ver que amscotas necesitan que la adopten urgentemente
